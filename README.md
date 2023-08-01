@@ -1,3 +1,4 @@
+![logo](https://github.com/Ajay1810/Ajay1810/blob/main/Create%20a%20panoramic%20poster%20for%20a%20data%20scientist's%20GitHub%20profile%20that%20showcases%20the%20intersecti.gif)
 <h1 align="center">Hi 👋, I'm Ajay Patil</h1>
 <h3 align="center">Aspiring Data Scientist | Solid Command on Python & SQL | Extensive Experience in ML Techniques and Models | Passionate about Solving Complex Data Problems | Secured top 18% rank in Kaggle Competition</h3>
 
