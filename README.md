@@ -5,7 +5,7 @@
 
 <img align="right" alt="gif" width="400" src="https://github.com/Ajay1810/Ajay1810/blob/main/make%20a%20github%20poster%20image.gif">
 
-- 📫 How to reach me **ajayjpatil1810@gmail.com**
+- 📫You can reach me at **ajayjpatil1810@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m7w3xmOdoaRdRib-8q_CFfBjIGS31e9H/view?usp=sharing](https://drive.google.com/file/d/1m7w3xmOdoaRdRib-8q_CFfBjIGS31e9H/view?usp=sharing)
 
