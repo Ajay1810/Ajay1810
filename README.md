@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | Solid Command on Python & SQL | Extensive Experience in ML Techniques and Models | Passionate about Solving Complex Data Problems | Secured top 18% rank in Kaggle Competition</h3>
 
 
-<img align="right" alt="gif" width="400" src="https://designerapp.officeapps.live.com/designerapp/Media.ashx/?id=6d0403bc-d810-46fa-be78-19efc98d35b0.gif&fileToken=daed468e-3ac3-4bf2-a1ed-be788e05d689&dcHint=IndiaCentral">
+<img align="right" alt="gif" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 - 📫 How to reach me **ajayjpatil1810@gmail.com**
 
