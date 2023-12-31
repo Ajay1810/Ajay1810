@@ -7,7 +7,7 @@
 
 - 📫You can reach me at **ajayjpatil1810@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m7w3xmOdoaRdRib-8q_CFfBjIGS31e9H/view?usp=sharing](https://drive.google.com/file/d/1m7w3xmOdoaRdRib-8q_CFfBjIGS31e9H/view?usp=sharing)
+- 📄 Know about my experiences []()
 
 - ⚡ Fun fact **Halleys Comet won’t orbit past Earth again until 2061.**
 
